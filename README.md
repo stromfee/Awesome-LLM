@@ -622,3 +622,5 @@ I will keep some pull requests open if I'm not sure if they are awesome for LLM,
 If you have any question about this opinionated list, do not hesitate to contact me chengxin1998@stu.pku.edu.cn.
 
 [^1]: This is not legal advice. Please contact the original authors of the models for more information.
+
+- [AgentMarket](https://agentmarket.cloud) - B2A marketplace for AI agents. 189 listings, real energy data (28M+ records), discovery API, LangChain/MCP integration.
